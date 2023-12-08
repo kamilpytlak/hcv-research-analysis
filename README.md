@@ -3,7 +3,7 @@
 
 Analysis of diagnostic tests carried out in the Wroclaw PKD (diagnostic and consultation point) during 20.08.2018 - 19.01.2022 oriented to the detection of factors influencing the increase in the risk of HCV infection. **Cooperation established with the Student Scientific Circle of Infectious Diseases, Liver Diseases and Acquired Immune Deficiencies.**
 
-Methodology and statistical analysis: Kamil Pytlak
+Methodology and statistical analysis: Kamil Pytlak (me)
 
 Other authors: Karolina Glajcar, Paulina Jamrozowicz, Igor Moreau, Marcin Wawrzyniak
 
