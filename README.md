@@ -9,4 +9,4 @@ Other authors: Karolina Glajcar, Paulina Jamrozowicz, Igor Moreau, Marcin Wawrzy
 
 **It will be published in a scientific journal.**
 
-[Presentation of results](presentation-of-results.pdf)
+[Presentation of results (available in PL only)](presentation-of-results.pdf)
